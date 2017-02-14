@@ -1,3 +1,3 @@
-hello
-another line
-another line
+THIS IS A READ ME
+
+HOWDY IM CHANGING THIS OMG
